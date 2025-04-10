@@ -1,0 +1,13 @@
+/* Additional custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h2 {
+    color: #2d3748; /* Dark gray */
+  }
+  
+  .bg-gradient-to-r {
+    background: linear-gradient(to right, #6b46c1, #9f7aea);
+  }
+  
